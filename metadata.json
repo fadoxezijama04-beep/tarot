@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Tarot: Gesture Ritual",
+  "description": "A mystical interactive Tarot experience driven by hand gestures using MediaPipe and Three.js, featuring high-fidelity visuals and fluid animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
